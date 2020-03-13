@@ -62,6 +62,8 @@ def getPositionOfLift(A, B):
         B.remove(person)
     return A, timeunits
 
+
+#driver code
 if __name__ == "__main__":
     # Input array for initial position of Lift Floors
     LiftStandingPos = [1, 3, 4]
