@@ -63,7 +63,7 @@ def getPositionOfLift(A, B):
     return A, timeunits
 
 
-#driver code
+#driver code by Roshan
 if __name__ == "__main__":
     # Input array for initial position of Lift Floors
     LiftStandingPos = [1, 3, 4]
